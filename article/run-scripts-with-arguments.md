@@ -1,6 +1,7 @@
 # Running a batch file or bash script with arguments
 
 Passing arguments to a batch file (i.e. Windows) is different from doing it with a bash script (i.e. MacOS or Linux). 
+This article provides code examples and explains the difference as described in the Python documentation.
 
 ## Environment
 * Windows 7 and MacOS High Sierra (10.13.5)
